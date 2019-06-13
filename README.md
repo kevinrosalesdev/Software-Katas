@@ -2,7 +2,7 @@
 
 <img src="https://img.shields.io/badge/license-MIT-green.svg" /><img src="https://img.shields.io/badge/version-1.0-red.svg" />
 
-#### Summary of some Katas or Applications done for Software Engineering Subjects in my University.
+## Summary of some Katas or Applications done for Software Engineering Subjects in my University.
 
 Software Engineering I & Software Engineering II trained us to define the architecture of Software (And its components, interfaces & dependencies). These Katas are focused to understand some design fundamentals like:
 
@@ -17,44 +17,44 @@ Katas are ordered by their difficulty as "Kata1" is the easiest and "Kata7" is t
 
 ***
 
-#### What's shown in each Kata?
+## What's shown in each Kata?
 
-##### Kata 1
+### [Kata 1](https://github.com/kevinrosalesdev/Software-Katas/tree/master/Kata1-Person)
 
 Simple Person Project to calculate a **Person Age** by his birthdate.
 
-##### Kata 2
+### [Kata 2](https://github.com/kevinrosalesdev/Software-Katas/tree/master/Kata2-Histogram)
 
 Simple **Histogram** Project to count how many times is a person name repeated in a List.
 
-##### Kata 3
+### [Kata 3](https://github.com/kevinrosalesdev/Software-Katas/tree/master/Kata3-HistogramGUI)
 
 Simple **Histogram** Project to **display** in a plot how many times is a mail repeated.
 
-##### Kata 4
+### [Kata 4](https://github.com/kevinrosalesdev/Software-Katas/tree/master/Kata4-HistogramGUIDatafileMVC)
 
 Simple **Histogram** Project with MVC (Model-View-Controller) Arquitecture to display in a plot how many times is a mail repeated. Mails are loaded from the **datafile** *email.txt*.
 
-##### Kata 5
+### Kata 5
 
 It's divided into two parts:
 
-- **Kata 5A**
+- **[Kata 5A]**(https://github.com/kevinrosalesdev/Software-Katas/tree/master/Kata5A-SQLDatabaseConnection)
 
   SQL Database Connection Project that shows how Java can connect to a *SQLite DB* to execute some **SQL Orders**.
 
-- **Kata 5B**
+- **[Kata 5B]**(https://github.com/kevinrosalesdev/Software-Katas/tree/master/Kata5B-HistogramGUIDatabaseMVC)
 
   **Histogram** Project with MVC (Model-View-Controller) Arquitecture that has the objective to display in a plot how many times is a mail repeated. Mails are loaded from the **database** *KATA5.db*.
 
-##### Kata 6
+### [Kata 6](https://github.com/kevinrosalesdev/Software-Katas/tree/master/Kata6-Iterators)
 
 Project that prints on screen how many files in your PC from a initial directory (User can change initial directory - ".." by default) have got a determinate size in MB using recursivity and a map. Project uses some created types of **Iterators** to accomplish that objective.
 
-##### Kata 7
+### [Kata 7](https://github.com/kevinrosalesdev/Software-Katas/tree/master/Kata7-AnalogueClockMVP)
 
 **Analogue Clock Project** that uses some Math Operations to display it. It uses an interesting MVP (Model-View-Presenter) Arquitecture.
 
-##### Optional Kata
+### [Optional Kata](https://github.com/kevinrosalesdev/Software-Katas/tree/master/OptionalKata-JUnitTests)
 
 Optional Kata that was done in order to get taught about using **Test-Driven Development**. It's developed using JUnit as a unit testing framework for Java.

@@ -39,11 +39,11 @@ Simple **Histogram** Project with MVC (Model-View-Controller) Arquitecture to di
 
 It's divided into two parts:
 
-- **[Kata 5A]**(https://github.com/kevinrosalesdev/Software-Katas/tree/master/Kata5A-SQLDatabaseConnection)
+- [**Kata 5A**](https://github.com/kevinrosalesdev/Software-Katas/tree/master/Kata5A-SQLDatabaseConnection)
 
   SQL Database Connection Project that shows how Java can connect to a *SQLite DB* to execute some **SQL Orders**.
 
-- **[Kata 5B]**(https://github.com/kevinrosalesdev/Software-Katas/tree/master/Kata5B-HistogramGUIDatabaseMVC)
+- [**Kata 5B**](https://github.com/kevinrosalesdev/Software-Katas/tree/master/Kata5B-HistogramGUIDatabaseMVC)
 
   **Histogram** Project with MVC (Model-View-Controller) Arquitecture that has the objective to display in a plot how many times is a mail repeated. Mails are loaded from the **database** *KATA5.db*.
 
